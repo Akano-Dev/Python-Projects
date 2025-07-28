@@ -11,4 +11,7 @@ Basic Python Projects -
 9. Dice Roller -
 10. Password Generator -
 11. Digital Clock -
-12. Basic Unit Converter [length/weight/height] - 
+12. Basic Unit Converter [length/weight/height] -
+
+Extra - 
+* Snake Game - ✅
